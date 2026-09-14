@@ -1,0 +1,16 @@
+{
+  "extraKnownMarketplaces": {
+    "teach-me-cs": {
+      "source": {
+        "source": "github",
+        "repo": "mohamed-g91/teach-me-cs"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "teach-me-cs@teach-me-cs": true
+  },
+  "env": {
+    "TEACH_LEVEL": "beginner"
+  }
+}
