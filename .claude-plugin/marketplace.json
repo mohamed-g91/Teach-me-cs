@@ -1,0 +1,18 @@
+{
+  "name": "teach-me-cs",
+  "owner": {
+    "name": "mohamed-g91",
+    "url": "https://github.com/mohamed-g91"
+  },
+  "metadata": {
+    "description": "Learn computer science from the sessions you are already running.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "teach-me-cs",
+      "source": "./",
+      "description": "Explains what just happened in your Claude Code session, in plain language, at a depth you choose."
+    }
+  ]
+}
